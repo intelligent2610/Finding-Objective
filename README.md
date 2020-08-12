@@ -1,0 +1,2 @@
+# Finding-Objective
+This is an AR experience for children to play and learn English vocabulary. By scanning a flat in a house or department using a mobile phone, it will display a list of English words on the left sidebar and a 3D room view with a lot of objects inside. Kids need to go around the room and find corresponding vocabulary listing on the left sidebar by touching a specific item on the phone's screen. With every correct pointing object, the corresponding vocabulary on the left side will be crossed out and he/she will be rewarded a specific number of points.
